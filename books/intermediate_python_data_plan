@@ -1,0 +1,206 @@
+1MatplotlibFREE
+0%
+
+Data Visualization is a key skill for aspiring data scientists. Matplotlib makes it easy to create meaningful and insightful plots. In this chapter, you will learn to build various types of plots and to customize them to make them more visually appealing and interpretable.
+
+    Basic plots with matplotlib
+    0/50xp
+    Line plot (1)
+    0/100xp
+    Line Plot (2): Interpretation
+    0/50xp
+    Line plot (3)
+    0/100xp
+    Scatter Plot (1)
+    0/100xp
+    Scatter plot (2)
+    0/100xp
+    Histograms
+    0/50xp
+    Build a histogram (1)
+    0/100xp
+    Build a histogram (2): bins
+    0/100xp
+    Build a histogram (3): compare
+    0/100xp
+    Choose the right plot (1)
+    0/50xp
+    Choose the right plot (2)
+    0/50xp
+    Customization
+    0/50xp
+    Labels
+    0/100xp
+    Ticks
+    0/100xp
+    Sizes
+    0/100xp
+    Colors
+    0/100xp
+    Additional Customizations
+    0/100xp
+    Interpretation
+    0/50xp
+
+Hide Details
+2Dictionaries & Pandas
+0%
+
+Learn about the dictionary, an alternative to the Python list, and the Pandas DataFrame, the de facto standard to work with tabular data in Python. You will get hands-on practice with creating, manipulating and accessing the information you need from these data structures.
+
+    Dictionaries, Part 1
+    0/50xp
+    Motivation for dictionaries
+    0/100xp
+    Create dictionary
+    0/100xp
+    Access dictionary
+    0/100xp
+    Dictionaries, Part 2
+    0/50xp
+    Dictionary Manipulation (1)
+    0/100xp
+    Dictionary Manipulation (2)
+    0/100xp
+    Dictionariception
+    0/100xp
+    Pandas, Part 1
+    0/50xp
+    Dictionary to DataFrame (1)
+    0/100xp
+    Dictionary to DataFrame (2)
+    0/100xp
+    CSV to DataFrame (1)
+    0/100xp
+    CSV to DataFrame (2)
+    0/100xp
+    Pandas, Part 2
+    0/50xp
+    Square Brackets (1)
+    0/100xp
+    Square Brackets (2)
+    0/100xp
+    loc and iloc (1)
+    0/100xp
+    loc and iloc (2)
+    0/100xp
+    loc and iloc (3)
+    0/100xp
+
+Hide Details
+3Logic, Control Flow and Filtering
+0%
+
+Boolean logic is the foundation of decision-making in your Python programs. Learn about different comparison operators, how you can combine them with boolean operators and how to use the boolean outcomes in control structures. You'll also learn to filter data from Pandas DataFrames using logic.
+
+    Comparison Operators
+    0/50xp
+    Equality
+    0/100xp
+    Greater and less than
+    0/100xp
+    Compare arrays
+    0/100xp
+    Boolean Operators
+    0/50xp
+    and, or, not (1)
+    0/100xp
+    and, or, not (2)
+    0/50xp
+    Boolean operators with Numpy
+    0/100xp
+    if, elif, else
+    0/50xp
+    Warmup
+    0/50xp
+    if
+    0/100xp
+    Add else
+    0/100xp
+    Customize further: elif
+    0/100xp
+    Filtering Pandas DataFrame
+    0/50xp
+    Driving right (1)
+    0/100xp
+    Driving right (2)
+    0/100xp
+    Cars per capita (1)
+    0/100xp
+    Cars per capita (2)
+    0/100xp
+
+Hide Details
+4Loops
+0%
+
+There are several techniques to repeatedly execute Python code. While loops are like repeated if statements; the for loop is there to iterate over all kinds of data structures. Learn all about them in this chapter.
+
+    while loop
+    0/50xp
+    while: warming up
+    0/50xp
+    Basic while loop
+    0/100xp
+    Add conditionals
+    0/100xp
+    for loop
+    0/50xp
+    Loop over a list
+    0/100xp
+    Indexes and values (1)
+    0/100xp
+    Indexes and values (2)
+    0/100xp
+    Loop over list of lists
+    0/100xp
+    Looping Data Structures, Part 1
+    0/50xp
+    Loop over dictionary
+    0/100xp
+    Loop over Numpy array
+    0/100xp
+    Looping Data Structures, Part 2
+    0/50xp
+    Loop over DataFrame (1)
+    0/100xp
+    Loop over DataFrame (2)
+    0/100xp
+    Add column (1)
+    0/100xp
+    Add column (2)
+    0/100xp
+
+Hide Details
+5Case Study: Hacker Statistics
+0%
+
+This chapter blends together everything you've learned up to now. You will use hacker statistics to calculate your chances of winning a bet. Use random number generators, loops and matplotlib to get the competitive edge!
+
+    Random Numbers
+    0/50xp
+    Random float
+    0/100xp
+    Roll the dice
+    0/100xp
+    Determine your next move
+    0/100xp
+    Random Walk
+    0/50xp
+    The next step
+    0/100xp
+    How low can you go?
+    0/100xp
+    Visualize the walk
+    0/100xp
+    Distribution
+    0/50xp
+    Simulate multiple walks
+    0/100xp
+    Visualize all walks
+    0/100xp
+    Implement clumsiness
+    0/100xp
+    Plot the distribution
+    0/100xp
+    Calculate the odds
