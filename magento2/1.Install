@@ -14,7 +14,7 @@
 --currency=BGN \
 --timezone=Europe/Sofia \ 
 --use-rewrites=1 \
---search-engine=elasticsearch8 \ 
+--search-engine=elasticsearch7 \ 
 --elasticsearch-host=elasticsearch \ 
 --elasticsearch-port=9200 \
 --elasticsearch-index-prefix=coreops \
