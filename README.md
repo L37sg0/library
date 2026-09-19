@@ -1,20 +1,7 @@
-# 📚 Tech Library & Courses
-
-Welcome to my personal repository of technical books, notes, and curated courses! This collection serves as my knowledge base, covering software development, system administration, security, and data science.
+# library
 
 ---
-
-## 🗂️ Repository Structure
-
-```text
-.
-├── books/         # E-books, documentation, and guides (PDF/EPUB)
-└── courses/       # Structured course notes, tutorials, and practical labs (Markdown)
-```
----
-## 📖 Books Collection (/books)
-
-The books directory is organized by programming languages, frameworks, and core computer science concepts:
+## Books Collection (/books)
 
 - Core & General:
 
@@ -40,9 +27,7 @@ The books directory is organized by programming languages, frameworks, and core 
 
     - iOS Development & Geometry
 ---
-## 🎓 Courses & Learning Paths (/courses)
-
-The courses directory contains detailed markdown notes and guides structured into various technical modules:
+## Courses & Learning Paths (/courses)
 
 - Linux & Infrastructure:
 
@@ -69,11 +54,3 @@ The courses directory contains detailed markdown notes and guides structured int
 - E-Commerce:
 
     - Magento 2: Installation, data patches, security updates, and MySQL queries.
----
-## 🛠️ Usage & Contributing
-
-This repository is primarily intended as a personal reference library. However, feel free to explore, fork, or use any of the public notes and references for your own learning journey!
----
-## 📄 License
-
-This repository is open-source and available under the terms of the LICENSE.
